@@ -1,0 +1,11 @@
+{
+  "name": "ZAYRO",
+  "short_name": "ZAYRO",
+  "description": "ZAYRO - A simple online chat application",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#3b82f6",
+  "icons": []
+}
